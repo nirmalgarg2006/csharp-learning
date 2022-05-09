@@ -1,10 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.Linq;
-using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
@@ -12,7 +6,7 @@ namespace ConsoleApp1
     {
         public class A
         {
-            private int value = 10;
+            private readonly int value = 10;
 
             public class B : A
             {

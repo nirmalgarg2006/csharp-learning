@@ -1,0 +1,25 @@
+VISUAL STUDIO 2019
+------------------
+https://visualstudio.microsoft.com/
+
+	download Visual Studio 2019 Community Edition (Free)
+
+	Note: You can also install visual studio code for Angular. (Optional)
+
+https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2019
+
+	while installing vs2019, you need to select the workloads. select the following workloads:
+		 ASP.NET and Web Development
+		.NET Desktop Development 
+		.NET Core cross platform development
+		
+	(You can select the other workloads or can add later - also check the disk space required while selecting workloads)
+
+
+______________________________________________________________________________________________________________________________________
+
+Documentation Links (Also can download the PDF)
+-----------------------------------------------
+
+https://docs.microsoft.com/en-us/dotnet/framework/get-started/overview
+https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/
